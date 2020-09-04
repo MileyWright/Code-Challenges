@@ -43,3 +43,19 @@ function compareTriplets(a, b) {
      * Write your code here.
      */
 }
+
+
+// Task 3:
+// Complete the aVeryBigSum function below. It must return the sum of all array elements.
+
+// aVeryBigSum has the following parameter(s):
+// int ar[n]: an array of integers 
+
+// Hint                     Sample Input                                       Sample Output
+//  [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]                5000000015
+
+function aVeryBigSum(ar) {
+    /*
+     * Write your code here.
+     */
+}
